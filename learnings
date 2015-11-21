@@ -1,0 +1,3 @@
+A *.img file is a "hard disk" from the emulator's perspective.
+A "raw" disk image is plain binary as it would be laid out on a phyiscal disk.
+You interact with computer hardware (other than the CPU) via software interrupts.

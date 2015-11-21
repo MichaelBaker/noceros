@@ -1,0 +1,1 @@
+nasm -f bin bootloader/boot.asm -o dist/boot.bin

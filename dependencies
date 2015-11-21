@@ -1,1 +1,2 @@
-qemu
+qemu: machine emulation for a fast feedback loop
+nasm: an assembler for generating machine code from assembly code
